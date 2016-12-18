@@ -1,0 +1,6 @@
+[submodule "liboauth"]
+	path = liboauth
+	url = https://github.com/leico/liboauth.git
+[submodule "OpenSSL"]
+	path = OpenSSL
+	url = https://github.com/leico/openssl-xcode.git
